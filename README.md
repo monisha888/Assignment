@@ -2,7 +2,7 @@
 
 A collection of beginner-to-intermediate Python practice problems covering three core data structures: **Lists**, **Dictionaries**, and **Strings**. Each notebook contains 10 hands-on coding questions with sample inputs/outputs, designed for interactive learning in Jupyter/Google Colab.
 
-> 💻🐍 Originally created as part of an interactive learning session — write your solution under each question and run it to reinforce the concept.
+
 
 ---
 
